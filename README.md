@@ -1,3 +1,3 @@
 # games
-fun mini games
-All are implemented using OOPs
+Fun mini games.<br>
+All are implemented using **OOPs**
